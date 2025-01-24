@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Tcl when accessing list elements with incorrect indices. The `bug.tcl` file shows the problematic code, resulting in an error when trying to access an index outside the list bounds. The `bugSolution.tcl` file provides a robust solution that includes proper error checking and handling, preventing unexpected program termination.
